@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Computer Science Student at Seattle Central College</h3>
 
 - 📫 How to reach me: **tmama20012001@gmail.com**
--  💬 Ask me about **Python, Java, JavaScript, React JS, Node JS**
+-  💬 Ask me about **Python, JavaScript, React JS, Node JS**
 
 <h3 align="left">Connect with me: </h3>
 
