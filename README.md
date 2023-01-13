@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mama Thomas</h1>
-<h3 align="center">I'm a Computer Science Student at Seattle Central College</h3>
+<h3 align="center">I'm a Mathemnaics and Computer Science Student at University of Washington</h3>
 
 - 📫 How to reach me: **tmama20012001@gmail.com**
--  💬 Ask me about **Python, JavaScript, React JS, Node JS**
+-  💬 Ask me about **Python, JavaScript, React JS, Node JS, C++**
 
 <h3 align="left">Connect with me: </h3>
 
