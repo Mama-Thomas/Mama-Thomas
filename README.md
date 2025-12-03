@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mama Thomas</h1>
 <h3 align="center">I'm a Mathematics and Computer Science Student at University of Washington</h3>
 
-- 📫 How to reach me: **tmama20012001@gmail.com**
+- 📫 How to reach me: **mamathomas594@gmail.com**
 -  💬 Ask me about **Python, JavaScript, React JS, Node JS, C++**
 
 <h3 align="left">Connect with me: </h3>
