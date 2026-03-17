@@ -68,7 +68,7 @@ I'm a Software Engineer based in Seattle, WA with a strong foundation in mathema
 
 ---
 
-### GitHub Stats
+<! -- ### GitHub Stats -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mama-Thomas&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
