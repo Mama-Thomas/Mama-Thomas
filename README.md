@@ -19,7 +19,7 @@
 
 I'm a Software Engineer based in Seattle, WA with a strong foundation in mathematics, algorithms, and system design. I build scalable backend and full-stack systems and I'm passionate about solving complex problems with clean, well-architected code.
 
-- 🔭 Currently building **[GeriAssist](https://github.com/Mama-Thomas/geriassist-rag-aws)** — a cloud-deployed RAG system for geriatric clinical knowledge using FAISS, OpenAI embeddings, and AWS
+- 🔭 Currently building **[GeriAssist](https://github.com/Mama-Thomas/geriassist-rag-aws)**, a cloud-deployed RAG system for geriatric clinical knowledge using FAISS, OpenAI embeddings, and AWS
 - 🎓 B.S. in Mathematics (Computer Science Concentration) from the **University of Washington** (2025)
 - 🌱 Deepening my skills in **distributed systems**, **cloud architecture**, and **AI/ML infrastructure**
 - 📍 Based in Seattle, WA — open to relocation
@@ -66,16 +66,6 @@ I'm a Software Engineer based in Seattle, WA with a strong foundation in mathema
 | [**Bug Tracker**](https://github.com/Mama-Thomas/bug_tracker) | Full-stack role-based bug tracking platform with JWT auth, audit logging, and optimized PostgreSQL schema (65% query improvement) | React, Node.js, PostgreSQL, JWT |
 | [**Movie Discovery App**](https://mama-thomas.github.io/daliyaMoviesProject/) | Responsive movie browsing app with third-party API integration, caching optimization, and Firebase auth | React, Firebase, TMDb API |
 
----
-
-<! -- ### GitHub Stats -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mama-Thomas&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mama-Thomas&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"/>
-</p> -->
-
----
 
 <p align="center">
   <em>Open to new grad software engineering opportunities — let's connect!</em>
